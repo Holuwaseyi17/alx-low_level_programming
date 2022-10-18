@@ -1,3 +1,4 @@
 #ifndef MAIN_H
 #define MAIN_H
-int (char c)
+
+int ('char' c)
